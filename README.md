@@ -1,4 +1,4 @@
 # witness
 
-AMD 6 cores
-8 gigs memory
+AMD 4 cores
+4 gigs memory
